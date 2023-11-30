@@ -9,7 +9,7 @@ body {
 }
 
 .padding {
-    padding: 45px 20%;
+    padding: 20px 20%;
 }
 
 .header {
@@ -79,6 +79,7 @@ h1 {
     padding: 10px 40px;
     font-weight: 700;
     font-size: 18px;
+    border:0;
 }
 
 button:hover {
@@ -88,7 +89,7 @@ button:hover {
 .container {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 60px;
 }
 
 h2 {
@@ -118,6 +119,7 @@ img {
 
 .quote-container {
     background-color:#E5E7EB ;
+    padding: 80px 20%
 }
 
 .quote {
@@ -135,8 +137,9 @@ img {
     display: flex;
     gap: 164px;
     justify-content: center;
+    align-items: center;
     background-color: #3882F6;
-    padding: 50px;
+    padding: 30px 20px;
     margin: 45px 20%;
     border-radius: 8px;
 }
